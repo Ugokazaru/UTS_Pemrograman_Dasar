@@ -1,0 +1,16 @@
+[
+  {"nim": "23.11.5001", "nama": "Andi Pratama",       "kelas": "TK-01", "tugas": 88, "uts": 82, "uas": 90},
+  {"nim": "23.11.5002", "nama": "Bella Safitri",      "kelas": "TK-01", "tugas": 95, "uts": 91, "uas": 93},
+  {"nim": "23.11.5003", "nama": "Citra Lestari",      "kelas": "TK-01", "tugas": 72, "uts": 65, "uas": 70},
+  {"nim": "23.11.5004", "nama": "Dimas Nugroho",      "kelas": "TK-01", "tugas": 55, "uts": 48, "uas": 52},
+  {"nim": "23.11.5005", "nama": "Eka Wulandari",      "kelas": "TK-02", "tugas": 80, "uts": 78, "uas": 85},
+  {"nim": "23.11.5006", "nama": "Fajar Ramadhan",     "kelas": "TK-02", "tugas": 60, "uts": 58, "uas": 64},
+  {"nim": "23.11.5007", "nama": "Galih Prasetyo",     "kelas": "TK-02", "tugas": 90, "uts": null, "uas": 88},
+  {"nim": "23.11.5008", "nama": "Hana Kurniawati",    "kelas": "TK-02", "tugas": 100, "uts": 96, "uas": 98},
+  {"nim": "23.11.5009", "nama": "Indra Setiawan",     "kelas": "TK-03", "tugas": 40, "uts": 35, "uas": 45},
+  {"nim": "23.11.5010", "nama": "Jihan Maharani",     "kelas": "TK-03", "tugas": 77, "uts": 81, "uas": 74},
+  {"nim": "23.11.5011", "nama": "Kevin Alfarizi",     "kelas": "TK-03", "tugas": 68, "uts": 71, "uas": 66},
+  {"nim": "23.11.5012", "nama": "Laras Anggraini",    "kelas": "TK-03"},
+  {"nim": "23.11.5002", "nama": "Bella Safitri",      "kelas": "TK-01", "tugas": 95, "uts": 91, "uas": 93},
+  {"nim": "23.11.5013", "nama": "Maulana Yusuf",      "kelas": "TK-03", "tugas": 85, "uts": 150, "uas": 80}
+]

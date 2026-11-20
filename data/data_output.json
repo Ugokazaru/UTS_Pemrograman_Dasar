@@ -1,0 +1,23 @@
+{
+  "dibuat_pada": "2026-11-21T01:55:07",
+  "rekap": {
+    "total_mahasiswa": 0,
+    "sudah_dinilai": 0,
+    "belum_lengkap": 0,
+    "rata_rata": null,
+    "median": null,
+    "tertinggi": null,
+    "terendah": null,
+    "jumlah_lulus": 0,
+    "persen_lulus": null,
+    "distribusi_grade": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    },
+    "rata_per_kelas": {}
+  },
+  "mahasiswa": []
+}
